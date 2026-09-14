@@ -1,0 +1,14 @@
+<resources>
+    <color name="surface_background">#F4F7FB</color>
+    <color name="card_white">#FFFFFF</color>
+
+    <color name="aqi_good">#00E400</color>
+    <color name="aqi_moderate">#FFFF00</color>
+    <color name="aqi_unhealthy_sensitive">#FF7E00</color>
+    <color name="aqi_unhealthy">#FF0000</color>
+    <color name="aqi_very_unhealthy">#8F3F97</color>
+    <color name="aqi_hazardous">#7E0023</color>
+
+    <color name="text_primary">#17324D</color>
+    <color name="text_secondary">#557089</color>
+</resources>
